@@ -1,0 +1,5 @@
+﻿  ProducerConsumer.c
+c:\users\palapathik\documents\visual studio 2015\projects\producer consumer\producer consumer\producerconsumer.c(48): warning C4113: 'void *(__cdecl *)()' differs in parameter lists from 'void *(__cdecl *)(void *)'
+c:\users\palapathik\documents\visual studio 2015\projects\producer consumer\producer consumer\producerconsumer.c(49): warning C4113: 'void *(__cdecl *)()' differs in parameter lists from 'void *(__cdecl *)(void *)'
+  Producer Consumer.vcxproj -> c:\users\palapathik\documents\visual studio 2015\Projects\Producer Consumer\Debug\Producer Consumer.exe
+  Producer Consumer.vcxproj -> c:\users\palapathik\documents\visual studio 2015\Projects\Producer Consumer\Debug\Producer Consumer.pdb (Full PDB)
